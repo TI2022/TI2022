@@ -1,5 +1,5 @@
 ## 🙋 About Tatsunori Iijima
-I'm a web and mobile developer, working mostly with typescript, Ruby on Rails! 
+I'm a web and mobile developer, working mostly with Ruby on Rails, TypeScript! 
 
 ### 🌱 my skills
 
@@ -11,8 +11,6 @@ I'm a web and mobile developer, working mostly with typescript, Ruby on Rails!
 
 ### 📩 contact me
 *  [linkdin](https://www.linkedin.com/in/%E8%BE%B0%E5%89%87-%E9%A3%AF%E5%B3%B6-88953a34a/)
-*  [X](https://twitter.com/yukionishi1989)
-
 
 
 
