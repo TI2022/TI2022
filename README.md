@@ -1,12 +1,12 @@
 ## 🙋 About Tatsunori Iijima
-I'm a web and mobile developer, working mostly with Ruby on Rails, TypeScript! 
+I'm a web and mobile developer, working mostly with Ruby on Rails, JavaScript! 
 
 ### 🌱 my skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,python,dart,php,nodejs,html,css,sass,tailwind,react,nextjs,vue,nuxtjs,express,nestjs,flutter,docker,aws,gcp,graphql,mysql,postgres,firebase,supabase,prisma,jest,npm,yarn,webpack&perline=10)](https://skillicons.dev)
 
 ### 🍪 likes
-* Beautiful code
+* Play tennis
 * Drive my car
 
 ### 📩 contact me
