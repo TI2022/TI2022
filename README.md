@@ -1,7 +1,7 @@
 ## 🙋 About Tatsunori Iijima
 I'm a web and mobile developer, working mostly with Ruby on Rails, JavaScript! 
 
-###👨‍💻 my portfolio site
+### 👨‍💻 my portfolio site
 https://portfolio-jc0kdbu0v-ti2022s-projects.vercel.app/
 
 ### 🌱 my skills
