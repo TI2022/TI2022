@@ -2,7 +2,7 @@
 I'm a web and mobile developer, working mostly with Ruby on Rails, JavaScript! 
 
 ### 👨‍💻 my portfolio site
-https://portfolio-jc0kdbu0v-ti2022s-projects.vercel.app/
+[https://portfolio-jc0kdbu0v-ti2022s-projects.vercel.app/](https://portfolio-qdrhkd9jv-ti2022s-projects.vercel.app/)
 
 ### 🌱 my skills
 [![My Skills](https://skillicons.dev/icons?i=ts,js,python,dart,php,nodejs,html,css,sass,tailwind,react,nextjs,vue,nuxtjs,express,nestjs,flutter,docker,aws,gcp,graphql,mysql,postgres,firebase,supabase,prisma,jest,npm,yarn,webpack&perline=10)](https://skillicons.dev)
